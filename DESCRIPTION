@@ -1,0 +1,2 @@
+This project is a six-legged spider robot using an Arduino, controlled by 12 SG90 servos via a PCA9685 driver.
+The robot can walk, lift its legs, perform standing movements, and perform simple movements.
