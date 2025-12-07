@@ -3,7 +3,7 @@ Here is a clean, professional **English version of `architecture.md`** that you 
 Feel free to paste your Tinkercad wiring image where indicated.
 
 
-# 🕷️ **Robot Architecture Overview**
+#  **Robot Architecture Overview**
 
 This document describes the physical and logical architecture of the Spider Robot project, including mechanical structure, servo placement, wiring layout, and the overall system design.
 
@@ -72,4 +72,5 @@ All 12 servos receive PWM control signals from the PCA9685, while power is suppl
 
 ##  **4. Wiring Diagram**
 
-![Wiring Diagram](images/tinkercad_diagram.jpg)
+<img width="1900" height="863" alt="Снимок экрана 2025-12-07 163326" src="https://github.com/user-attachments/assets/60975166-427b-497f-804a-5aaaa8cb89d0" />
+
